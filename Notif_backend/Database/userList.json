@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "user1",
+      "email": "user1@example.com",
+      "configurations": [
+        {
+          "service": "Service A",
+          "subscribed": true,
+          "notification_channels": ["email", "sms"]
+        },
+        {
+          "service": "Service B",
+          "subscribed": false,
+          "notification_channels": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "username": "user2",
+      "email": "user2@example.com",
+      "configurations": [
+        {
+          "service": "Service A",
+          "subscribed": false,
+          "notification_channels": ["push"]
+        },
+        {
+          "service": "Service C",
+          "subscribed": true,
+          "notification_channels": ["email"]
+        }
+      ]
+    }
+  ]
+}

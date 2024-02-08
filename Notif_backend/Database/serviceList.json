@@ -1,0 +1,36 @@
+{
+    "1": {
+        "service_id": 1,
+        "service_name": "Service A",
+        "subscribers": [
+            {
+                "user_id": 1,
+                "notification_channels": ["email", "sms"]
+            },
+            {
+                "user_id": 2,
+                "notification_channels": ["push"]
+            }
+        ]
+    },
+    "2": {
+        "service_id": 2,
+        "service_name": "Service B",
+        "subscribers": [
+            {
+                "user_id": 1,
+                "notification_channels": ["email"]
+            }
+        ]
+    },
+    "3": {
+        "service_id": 3,
+        "service_name": "Service C",
+        "subscribers": [
+            {
+                "user_id": 2,
+                "notification_channels": ["email"]
+            }
+        ]
+    }
+}
