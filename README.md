@@ -1,6 +1,7 @@
 
 # High Level Design
-![Notification Image](Notification Image.png)
+
+![Notification System](https://github.com/adityagoyal204/Notification_System/assets/58358589/491c8a96-ae64-4189-8380-5dbcf97c8488)
 
 
 # Overview
