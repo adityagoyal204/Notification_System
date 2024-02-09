@@ -5,7 +5,8 @@
 
 #Low Level Design
 
-![image](https://github.com/adityagoyal204/Notification_System/assets/58358589/c91f8dd9-549f-4dc7-92f5-c81e2e5ff2bd)
+![image](https://github.com/adityagoyal204/Notification_System/assets/58358589/1de8d763-a9c1-480c-a95e-b36a632ae4f8)
+
 
 
 
