@@ -3,7 +3,7 @@
 
 ![Notification System](https://github.com/adityagoyal204/Notification_System/assets/58358589/491c8a96-ae64-4189-8380-5dbcf97c8488)
 
-#Low Level Design
+# Low Level Design
 
 ![image](https://github.com/adityagoyal204/Notification_System/assets/58358589/1de8d763-a9c1-480c-a95e-b36a632ae4f8)
 
@@ -76,7 +76,7 @@ The Notification System provides the following API methods:
 
 Service API
 
-- `handleNotification(msg, serviceId)`: Used to send msg from service to the Notifier, it acts as a 1st point of contact which recieves the msg and serviceId and then directs it to the appropriate recievers.
+- `handleNotification(msg, serviceId)`: Used to send msg from service to the Notifier, it acts as a 1st point of contact which recieves the msg and serviceId and then directs it to the appropriate recievers/users.
 
 User API
 
