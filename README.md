@@ -74,6 +74,12 @@ yarn install
 
 The Notification System provides the following API methods:
 
+Service API
+
+- `handleNotification(msg, serviceId)`: Used to send msg from service to the Notifier, it acts as a 1st point of contact which recieves the msg and serviceId and then directs it to the appropriate recievers.
+
+User API
+
 - `getNotificationChannels()`: Fetches the list of available notification channels.
   
 - `addSubscriber(userId, notificationChannel, serviceId)`: Adds a new subscriber to receive notifications for a specific service via a chosen channel.
