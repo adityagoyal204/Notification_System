@@ -32,7 +32,7 @@
 
 
 
-// Channels
+// ChannelList
 // | channel_id | channel_name |
 // |------------|--------------|
 // |     1      |  sms         |
